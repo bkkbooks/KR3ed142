@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ed142_000-jc.yaml, hash: 'sha256:cfd4e45275a9fbdb1d3c96448a6a2ff3ef0984c352fb3f076ea2e50364b317c5'}
+  - {seq: 0, filename: KR3ed142_000-jc.yaml, hash: 'sha256:b98a94b9eb7ac8abf1009c039e21bc9caae637d05a18ce0b1441b3c09526d935'}
   - {seq: 1, filename: KR3ed142_001-jc.yaml, hash: 'sha256:919167212b46ea57f359ddd2494062876a9079a1a323b1c77c67424877b53621'}
   - {seq: 2, filename: KR3ed142_002-jc.yaml, hash: 'sha256:be5e159235fbbb0ee7b82285ce25055e1ca75201af7f733338929fa5b7dff818'}
   - {seq: 3, filename: KR3ed142_003-jc.yaml, hash: 'sha256:aae42dcb6fb5085624b8736055e05a4176a087f9ff9dd2adcbe237372618d189'}
@@ -38,7 +38,7 @@ assets:
   - {seq: 18, filename: KR3ed142_018-jc.yaml, hash: 'sha256:9e4888b4692375d733923a5586204ddaf2ee4a389daa5aa5c33f692e3f414026'}
   - {seq: 19, filename: KR3ed142_019-jc.yaml, hash: 'sha256:44a6df7b8e58ca17fdbc1abb0163d2f3c503e413b8e193c6a3331f3b4c8534c6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed142_000-jc.markers.yaml, hash: 'sha256:1aa47680a0de46eac5d4d0f66a701350d6592756cce8b232e4dda7bc62acf773'}
+  - {seq: 0, role: markers, filename: assets/KR3ed142_000-jc.markers.yaml, hash: 'sha256:9406b287465f604d729badac3601a82af1ad7bd221566db5c8b57f71b392654d'}
   - {seq: 1, role: markers, filename: assets/KR3ed142_001-jc.markers.yaml, hash: 'sha256:f3b3cd25c1d0990be85d4c74f5a8acb1fdfc0645661209bf2f0d6a880bdbfb11'}
   - {seq: 2, role: markers, filename: assets/KR3ed142_002-jc.markers.yaml, hash: 'sha256:1287eb7392b47ec770f9997aac13848d00a5bdbdd3c38cc4af36cb0df25e8958'}
   - {seq: 3, role: markers, filename: assets/KR3ed142_003-jc.markers.yaml, hash: 'sha256:f871a1e76a2464593d2f068d80d716f82c696ff40ae46775bb26991ac84fa1c5'}
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed142_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 331
   label: 序
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed142_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 331
     - 840
   label: 序一
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed142_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 840
     - 1172
   label: 序二
@@ -2259,4 +2259,4 @@ table_of_contents:
   label: 救荒
   type: section
   level: 2
-hash: sha256:a45c97e428eecd96082534680e56b709163ba6c93fdbfc8ed2d8c6f879b17d2e
+hash: sha256:95fd541cd77c04e189098c5dcf2c9e4894b14bc74a4432d8d0f449b2712d3028
